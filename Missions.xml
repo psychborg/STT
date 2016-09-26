@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<A Bold Move/1>
+		<location>E5-M2</location>
+		<type>Space Battle</type>
+	</A Bold Move/1>
+	<A Bold Move/2>
+		<location>E5-M2</location>
+		<type>Space Battle</type>
+	</A Bold Move/2>
+	<A Bold Move/3>
+		<location>E5-M2</location>
+		<type>Space Battle</type>
+	</A Bold Move/3>
+	<A Father Figure/1>
+		<location>E1-M6</location>
+		<skillcheck>24</skillcheck>
+	</A Father Figure/1>
+	<A Father Figure/2>
+		<location>E1-M6</location>
+		<skillcheck>73</skillcheck>
+	</A Father Figure/2>
+	<A Father Figure/3>
+		<location>E1-M6</location>
+		<skillcheck>171</skillcheck>
+	</A Father Figure/3>
+	<A Kazon Scorned/1>
+		<location>E4-M3</location>
+		<type>Space Battle</type>
+	</A Kazon Scorned/1>
+	<A Kazon Scorned/2>
+		<location>E4-M3</location>
+		<type>Space Battle</type>
+	</A Kazon Scorned/2>
+	<A Kazon Scorned/3>
+		<location>E4-M3</location>
+		<type>Space Battle</type>
+	</A Kazon Scorned/3>
+	<A Logical Response/1>
+		<location>E1-M12</location>
+		<type>Space Battle</type>
+	</A Logical Response/1>
+	<A Logical Response/2>
+		<location>E1-M12</location>
+		<type>Space Battle</type>
+	</A Logical Response/2>
+	<A Logical Response/3>
+		<location>E1-M12</location>
+		<type>Space Battle</type>
+	</A Logical Response/3>
+	<A New Recruit/1>
+		<location>E2-M19C</location>
+		<skillcheck>73</skillcheck>
+	</A New Recruit/1>
+	<A New Recruit/2>
+		<location>E2-M19C</location>
+		<skillcheck>185</skillcheck>
+	</A New Recruit/2>
+	<A New Recruit/3>
+		<location>E2-M19C</location>
+		<skillcheck>649</skillcheck>
+	</A New Recruit/3>
+	<A Popular Item/1>
+		<location>E2-M18</location>
+		<type>Space Battle</type>
+	</A Popular Item/1>
+	<A Popular Item/2>
+		<location>E2-M18</location>
+		<type>Space Battle</type>
+	</A Popular Item/2>
+	<A Popular Item/3>
+		<location>E2-M18</location>
+		<type>Space Battle</type>
+	</A Popular Item/3>
+	<A Question of Rights/1>
+		<location>CF-M2</location>
+		<skillcheck>70</skillcheck>
+	</A Question of Rights/1>
+	<A Question of Rights/2>
+		<location>CF-M2</location>
+		<skillcheck>205</skillcheck>
+	</A Question of Rights/2>
+	<A Question of Rights/3>
+		<location>CF-M2</location>
+		<skillcheck>305</skillcheck>
+	</A Question of Rights/3>
+	<A Show of Force/1>
+		<location>P2-M1</location>
+		<type>Space Battle</type>
+	</A Show of Force/1>
+	<A Show of Force/2>
+		<location>P2-M1</location>
+		<type>Space Battle</type>
+	</A Show of Force/2>
+	<A Show of Force/3>
+		<location>P2-M1</location>
+		<type>Space Battle</type>
+	</A Show of Force/3>
+	<A Singular Occurrence/1>
+		<location>E3-M3</location>
+		<skillcheck>81</skillcheck>
+	</A Singular Occurrence/1>
+	<A Singular Occurrence/2>
+		<location>E3-M3</location>
+		<skillcheck>245</skillcheck>
+	</A Singular Occurrence/2>
+	<A Singular Occurrence/3>
+		<location>E3-M3</location>
+		<skillcheck>695</skillcheck>
+	</A Singular Occurrence/3>
+	<A Tale of Forgotten Lore/1>
+		<location>DE-M2</location>
+		<skillcheck>25</skillcheck>
+	</A Tale of Forgotten Lore/1>
+	<A Tale of Forgotten Lore/2>
+		<location>DE-M2</location>
+		<skillcheck>67</skillcheck>
+	</A Tale of Forgotten Lore/2>
+	<A Tale of Forgotten Lore/3>
+		<location>DE-M2</location>
+		<skillcheck>120</skillcheck>
+	</A Tale of Forgotten Lore/3>
+	<A Time of Morn-ing/1>
+		<location>DE-M4</location>
+		<skillcheck>35</skillcheck>
+	</A Time of Morn-ing/1>
+	<A Time of Morn-ing/2>
+		<location>DE-M4</location>
+		<skillcheck>49</skillcheck>
+	</A Time of Morn-ing/2>
+	<A Time of Morn-ing/3>
+		<location>DE-M4</location>
+		<skillcheck>70</skillcheck>
+	</A Time of Morn-ing/3>
+	<A Violent Birth/1>
+		<location>P1-M2</location>
+		<type>Space Battle</type>
+	</A Violent Birth/1>
+	<A Violent Birth/2>
+		<location>P1-M2</location>
+		<type>Space Battle</type>
+	</A Violent Birth/2>
+	<A Violent Birth/3>
+		<location>P1-M2</location>
+		<type>Space Battle</type>
+	</A Violent Birth/3>
+	<Act of Betrayal/1>
+		<location>E5-M8</location>
+		<skillcheck>212</skillcheck>
+	</Act of Betrayal/1>
+	<Act of Betrayal/2>
+		<location>E5-M8</location>
+		<skillcheck>576</skillcheck>
+	</Act of Betrayal/2>
+	<Act of Betrayal/3>
+		<location>E5-M8</location>
+		<skillcheck>1096</skillcheck>
+	</Act of Betrayal/3>
+	<Ancient Guardians/1>
+		<location>E6-M2</location>
+		<type>Space Battle</type>
+	</Ancient Guardians/1>
+	<Ancient Guardians/2>
+		<location>E6-M2</location>
+		<type>Space Battle</type>
+	</Ancient Guardians/2>
+	<Ancient Guardians/3>
+		<location>E6-M2</location>
+		<type>Space Battle</type>
+	</Ancient Guardians/3>
+	<Arms Race/1>
+		<location>E4-M8</location>
+		<type>Space Battle</type>
+	</Arms Race/1>
+	<Arms Race/2>
+		<location>E4-M8</location>
+		<type>Space Battle</type>
+	</Arms Race/2>
+	<Arms Race/3>
+		<location>E4-M8</location>
+		<type>Space Battle</type>
+	</Arms Race/3>
+	<Assault and Battery/1>
+		<location>E1-M4</location>
+		<skillcheck>23</skillcheck>
+	</Assault and Battery/1>
+	<Assault and Battery/2>
+		<location>E1-M4</location>
+		<skillcheck>73</skillcheck>
+	</Assault and Battery/2>
+	<Assault and Battery/3>
+		<location>E1-M4</location>
+		<skillcheck>149</skillcheck>
+	</Assault and Battery/3>
+	<Back In Time/1>
+		<location>EA-M4</location>
+		<skillcheck>100</skillcheck>
+	</Back In Time/1>
+	<Back In Time/2>
+		<location>EA-M4</location>
+		<skillcheck>245</skillcheck>
+	</Back In Time/2>
+	<Back In Time/3>
+		<location>EA-M4</location>
+		<skillcheck>345</skillcheck>
+	</Back In Time/3>
+	<Back to School/1>
+		<location>E5-M14</location>
+		<skillcheck>284</skillcheck>
+	</Back to School/1>
+	<Back to School/2>
+		<location>E5-M14</location>
+		<skillcheck>667</skillcheck>
+	</Back to School/2>
+	<Back to School/3>
+		<location>E5-M14</location>
+		<skillcheck>1181</skillcheck>
+	</Back to School/3>
+	<Baited Hook/1>
+		<location>E5-M16</location>
+	</Baited Hook/1>
+	<Baited Hook/2>
+		<location>E5-M16</location>
+	</Baited Hook/2>
+	<Baited Hook/3>
+		<location>E5-M16</location>
+	</Baited Hook/3>
+	<Battle Shinzon/1>
+		<location>E7-M2</location>
+		<type>Space Battle</type>
+	</Battle Shinzon/1>
+	<Battle Shinzon/2>
+		<location>E7-M2</location>
+		<type>Space Battle</type>
+	</Battle Shinzon/2>
+	<Battle Shinzon/3>
+		<location>E7-M2</location>
+		<type>Space Battle</type>
+	</Battle Shinzon/3>
+	<Behind Closed Doors/1>
+		<location>E1-M11</location>
+		<skillcheck>34</skillcheck>
+	</Behind Closed Doors/1>
+	<Behind Closed Doors/2>
+		<location>E1-M11</location>
+		<skillcheck>83</skillcheck>
+	</Behind Closed Doors/2>
+	<Behind Closed Doors/3>
+		<location>E1-M11</location>
+		<skillcheck>279</skillcheck>
+	</Behind Closed Doors/3>
+	<Beyond the Call/1>
+		<location>E1-M8</location>
+		<type>Space Battle</type>
+	</Beyond the Call/1>
+	<Beyond the Call/2>
+		<location>E1-M8</location>
+		<type>Space Battle</type>
+	</Beyond the Call/2>
+	<Beyond the Call/3>
+		<location>E1-M8</location>
+		<type>Space Battle</type>
+	</Beyond the Call/3>
+	<Blunting the Dagger/1>
+		<location>E5-M5</location>
+		<skillcheck>212</skillcheck>
+	</Blunting the Dagger/1>
+	<Blunting the Dagger/2>
+		<location>E5-M5</location>
+		<skillcheck>530</skillcheck>
+	</Blunting the Dagger/2>
+	<Blunting the Dagger/3>
+		<location>E5-M5</location>
+		<skillcheck>1051</skillcheck>
+	</Blunting the Dagger/3>
+	<Boots on the Ground/1>
+		<location>P2-M2</location>
+	</Boots on the Ground/1>
+	<Boots on the Ground/2>
+		<location>P2-M2</location>
+	</Boots on the Ground/2>
+	<Boots on the Ground/3>
+		<location>P2-M2</location>
+	</Boots on the Ground/3>
+	<Bravery in Action/1>
+		<location>EA-M1</location>
+		<skillcheck>55</skillcheck>
+	</Bravery in Action/1>
+	<Bravery in Action/2>
+		<location>EA-M1</location>
+		<skillcheck>190</skillcheck>
+	</Bravery in Action/2>
+	<Bravery in Action/3>
+		<location>EA-M1</location>
+		<skillcheck>290</skillcheck>
+	</Bravery in Action/3>
+	<Breakwater/1>
+		<location>CF-M5</location>
+		<skillcheck>135</skillcheck>
+	</Breakwater/1>
+	<Breakwater/2>
+		<location>CF-M5</location>
+		<skillcheck>270</skillcheck>
+	</Breakwater/2>
+	<Breakwater/3>
+		<location>CF-M5</location>
+		<skillcheck>380</skillcheck>
+	</Breakwater/3>
+	<By Hook Or By Crook/1>
+		<location>E1-M14B</location>
+		<skillcheck>39</skillcheck>
+	</By Hook Or By Crook/1>
+	<By Hook Or By Crook/2>
+		<location>E1-M14B</location>
+		<skillcheck>86</skillcheck>
+	</By Hook Or By Crook/2>
+	<By Hook Or By Crook/3>
+		<location>E1-M14B</location>
+		<skillcheck>344</skillcheck>
+	</By Hook Or By Crook/3>
+	<Cardassian Hospitality/1>
+		<location>E2-M14</location>
+		<skillcheck>63</skillcheck>
+	</Cardassian Hospitality/1>
+	<Cardassian Hospitality/2>
+		<location>E2-M14</location>
+		<skillcheck>144</skillcheck>
+	</Cardassian Hospitality/2>
+	<Cardassian Hospitality/3>
+		<location>E2-M14</location>
+		<skillcheck>574</skillcheck>
+	</Cardassian Hospitality/3>
+	<Cleansing Fire/1>
+		<location>E1-M14A</location>
+		<skillcheck>39</skillcheck>
+	</Cleansing Fire/1>
+	<Cleansing Fire/2>
+		<location>E1-M14A</location>
+		<skillcheck>86</skillcheck>
+	</Cleansing Fire/2>
+	<Cleansing Fire/3>
+		<location>E1-M14A</location>
+		<skillcheck>344</skillcheck>
+	</Cleansing Fire/3>
+	<Common Ground/1>
+		<location>E4-M4</location>
+		<skillcheck>101</skillcheck>
+	</Common Ground/1>
+	<Common Ground/2>
+		<location>E4-M4</location>
+		<skillcheck>315</skillcheck>
+	</Common Ground/2>
+	<Common Ground/3>
+		<location>E4-M4</location>
+		<skillcheck>760</skillcheck>
+	</Common Ground/3>
+	<Control Over Chaos/1>
+		<location>E5-M9</location>
+		<skillcheck>240</skillcheck>
+	</Control Over Chaos/1>
+	<Control Over Chaos/2>
+		<location>E5-M9</location>
+		<skillcheck>530</skillcheck>
+	</Control Over Chaos/2>
+	<Control Over Chaos/3>
+		<location>E5-M9</location>
+		<skillcheck>1051</skillcheck>
+	</Control Over Chaos/3>
+	<Coursing Hounds/1>
+		<location>E5-M3</location>
+		<type>Space Battle</type>
+	</Coursing Hounds/1>
+	<Coursing Hounds/2>
+		<location>E5-M3</location>
+		<type>Space Battle</type>
+	</Coursing Hounds/2>
+	<Coursing Hounds/3>
+		<location>E5-M3</location>
+		<type>Space Battle</type>
+	</Coursing Hounds/3>
+	<Cytherian Highway/1>
+		<location>E3-M2</location>
+		<skillcheck>75</skillcheck>
+	</Cytherian Highway/1>
+	<Cytherian Highway/2>
+		<location>E3-M2</location>
+		<skillcheck>235</skillcheck>
+	</Cytherian Highway/2>
+	<Cytherian Highway/3>
+		<location>E3-M2</location>
+		<skillcheck>685</skillcheck>
+	</Cytherian Highway/3>
+	<Deadly Disruptions/1>
+		<location>E4-M5</location>
+		<skillcheck>106</skillcheck>
+	</Deadly Disruptions/1>
+	<Deadly Disruptions/2>
+		<location>E4-M5</location>
+		<skillcheck>350</skillcheck>
+	</Deadly Disruptions/2>
+	<Deadly Disruptions/3>
+		<location>E4-M5</location>
+		<skillcheck>805</skillcheck>
+	</Deadly Disruptions/3>
+	<Death Throes/1>
+		<location>CT-M5</location>
+		<type>Space Battle</type>
+	</Death Throes/1>
+	<Death Throes/2>
+		<location>CT-M5</location>
+		<type>Space Battle</type>
+	</Death Throes/2>
+	<Death Throes/3>
+		<location>CT-M5</location>
+		<type>Space Battle</type>
+	</Death Throes/3>
+	<Death in Battle/1>
+		<location>DE-M7</location>
+		<type>Space Battle</type>
+	</Death in Battle/1>
+	<Death in Battle/2>
+		<location>DE-M7</location>
+		<type>Space Battle</type>
+	</Death in Battle/2>
+	<Death in Battle/3>
+		<location>DE-M7</location>
+		<type>Space Battle</type>
+	</Death in Battle/3>
+	<Death's Endeavor/1>
+		<location>E7-M13B</location>
+		<skillcheck>635</skillcheck>
+	</Death's Endeavor/1>
+	<Death's Endeavor/2>
+		<location>E7-M13B</location>
+		<skillcheck>1117</skillcheck>
+	</Death's Endeavor/2>
+	<Death's Endeavor/3>
+		<location>E7-M13B</location>
+		<skillcheck>1676</skillcheck>
+	</Death's Endeavor/3>
+	<Double Trouble/1>
+		<location>E1-M9</location>
+		<skillcheck>29</skillcheck>
+	</Double Trouble/1>
+	<Double Trouble/2>
+		<location>E1-M9</location>
+		<skillcheck>76</skillcheck>
+	</Double Trouble/2>
+	<Double Trouble/3>
+		<location>E1-M9</location>
+		<skillcheck>139</skillcheck>
+	</Double Trouble/3>
+	<Down Once More/1>
+		<location>CF-M1</location>
+		<skillcheck>55</skillcheck>
+	</Down Once More/1>
+	<Down Once More/2>
+		<location>CF-M1</location>
+		<skillcheck>190</skillcheck>
+	</Down Once More/2>
+	<Down Once More/3>
+		<location>CF-M1</location>
+		<skillcheck>290</skillcheck>
+	</Down Once More/3>
+	<Family Squabble/1>
+		<location>E3-M1</location>
+		<type>Space Battle</type>
+	</Family Squabble/1>
+	<Family Squabble/2>
+		<location>E3-M1</location>
+		<type>Space Battle</type>
+	</Family Squabble/2>
+	<Family Squabble/3>
+		<location>E3-M1</location>
+		<type>Space Battle</type>
+	</Family Squabble/3>
+	<Fan Club/1>
+		<location>E4-M9</location>
+		<type>Space Battle</type>
+	</Fan Club/1>
+	<Fan Club/2>
+		<location>E4-M9</location>
+		<type>Space Battle</type>
+	</Fan Club/2>
+	<Fan Club/3>
+		<location>E4-M9</location>
+		<type>Space Battle</type>
+	</Fan Club/3>
+	<First Conflict/1>
+		<location>UF-M3</location>
+		<skillcheck>85</skillcheck>
+	</First Conflict/1>
+	<First Conflict/2>
+		<location>UF-M3</location>
+		<skillcheck>215</skillcheck>
+	</First Conflict/2>
+	<First Conflict/3>
+		<location>UF-M3</location>
+		<skillcheck>325</skillcheck>
+	</First Conflict/3>
+	<Flesh and Blood/1>
+		<location>UF-M4</location>
+		<skillcheck>100</skillcheck>
+	</Flesh and Blood/1>
+	<Flesh and Blood/2>
+		<location>UF-M4</location>
+		<skillcheck>245</skillcheck>
+	</Flesh and Blood/2>
+	<Flesh and Blood/3>
+		<location>UF-M4</location>
+		<skillcheck>345</skillcheck>
+	</Flesh and Blood/3>
+	<For His Own Good/1>
+		<location>E2-M13</location>
+		<type>Space Battle</type>
+	</For His Own Good/1>
+	<For His Own Good/2>
+		<location>E2-M13</location>
+		<type>Space Battle</type>
+	</For His Own Good/2>
+	<For His Own Good/3>
+		<location>E2-M13</location>
+		<type>Space Battle</type>
+	</For His Own Good/3>
+	<For the People/1>
+		<location>E4-M12</location>
+		<skillcheck>126</skillcheck>
+	</For the People/1>
+	<For the People/2>
+		<location>E4-M12</location>
+		<skillcheck>400</skillcheck>
+	</For the People/2>
+	<For the People/3>
+		<location>E4-M12</location>
+		<skillcheck>916</skillcheck>
+	</For the People/3>
+	<Garak's Gamble/1>
+		<location>E7-M13A</location>
+		<type>Space Battle</type>
+	</Garak's Gamble/1>
+	<Garak's Gamble/2>
+		<location>E7-M13A</location>
+		<type>Space Battle</type>
+	</Garak's Gamble/2>
+	<Garak's Gamble/3>
+		<location>E7-M13A</location>
+		<type>Space Battle</type>
+	</Garak's Gamble/3>
+	<He Means Well/1>
+		<location>E4-M11</location>
+		<type>Space Battle</type>
+	</He Means Well/1>
+	<He Means Well/2>
+		<location>E4-M11</location>
+		<type>Space Battle</type>
+	</He Means Well/2>
+	<He Means Well/3>
+		<location>E4-M11</location>
+		<type>Space Battle</type>
+	</He Means Well/3>
+	<Highwaymen/1>
+		<location>DE-M3</location>
+		<type>Space Battle</type>
+	</Highwaymen/1>
+	<Highwaymen/2>
+		<location>DE-M3</location>
+		<type>Space Battle</type>
+	</Highwaymen/2>
+	<Highwaymen/3>
+		<location>DE-M3</location>
+		<type>Space Battle</type>
+	</Highwaymen/3>
+	<His Own Man/1>
+		<location>E1-M2</location>
+		<type>Space Battle</type>
+	</His Own Man/1>
+	<His Own Man/2>
+		<location>E1-M2</location>
+		<type>Space Battle</type>
+	</His Own Man/2>
+	<His Own Man/3>
+		<location>E1-M2</location>
+		<type>Space Battle</type>
+	</His Own Man/3>
+	<History Interrupted/1>
+		<location>UF-M1</location>
+		<skillcheck>55</skillcheck>
+	</History Interrupted/1>
+	<History Interrupted/2>
+		<location>UF-M1</location>
+		<skillcheck>190</skillcheck>
+	</History Interrupted/2>
+	<History Interrupted/3>
+		<location>UF-M1</location>
+		<skillcheck>290</skillcheck>
+	</History Interrupted/3>
+	<Hot Pursuit/1>
+		<location>E2-M7</location>
+		<type>Space Battle</type>
+	</Hot Pursuit/1>
+	<Hot Pursuit/2>
+		<location>E2-M7</location>
+		<type>Space Battle</type>
+	</Hot Pursuit/2>
+	<Hot Pursuit/3>
+		<location>E2-M7</location>
+		<type>Space Battle</type>
+	</Hot Pursuit/3>
+	<Hounded/1>
+		<location>E7-M11</location>
+		<type>Space Battle</type>
+	</Hounded/1>
+	<Hounded/2>
+		<location>E7-M11</location>
+		<type>Space Battle</type>
+	</Hounded/2>
+	<Hounded/3>
+		<location>E7-M11</location>
+		<type>Space Battle</type>
+	</Hounded/3>
+	<Iconian Insider/1>
+		<location>DE-M8</location>
+		<skillcheck>68</skillcheck>
+	</Iconian Insider/1>
+	<Iconian Insider/2>
+		<location>DE-M8</location>
+		<skillcheck>115</skillcheck>
+	</Iconian Insider/2>
+	<Iconian Insider/3>
+		<location>DE-M8</location>
+		<skillcheck>165</skillcheck>
+	</Iconian Insider/3>
+	<Improvised Entry/1>
+		<location>E7-M1</location>
+		<skillcheck>400</skillcheck>
+	</Improvised Entry/1>
+	<Improvised Entry/2>
+		<location>E7-M1</location>
+		<skillcheck>840</skillcheck>
+	</Improvised Entry/2>
+	<Improvised Entry/3>
+		<location>E7-M1</location>
+		<skillcheck>1360</skillcheck>
+	</Improvised Entry/3>
+	<Incompatible With Life/1>
+		<location>UF-M2</location>
+		<skillcheck>70</skillcheck>
+	</Incompatible With Life/1>
+	<Incompatible With Life/2>
+		<location>UF-M2</location>
+		<skillcheck>205</skillcheck>
+	</Incompatible With Life/2>
+	<Incompatible With Life/3>
+		<location>UF-M2</location>
+		<skillcheck>310</skillcheck>
+	</Incompatible With Life/3>
+	<Indiscriminate Mind/1>
+		<location>DE-M5</location>
+		<type>Space Battle</type>
+	</Indiscriminate Mind/1>
+	<Indiscriminate Mind/2>
+		<location>DE-M5</location>
+		<type>Space Battle</type>
+	</Indiscriminate Mind/2>
+	<Indiscriminate Mind/3>
+		<location>DE-M5</location>
+		<type>Space Battle</type>
+	</Indiscriminate Mind/3>
+	<Instant Intervention/1>
+		<location>E5-M13</location>
+		<type>Space Battle</type>
+	</Instant Intervention/1>
+	<Instant Intervention/2>
+		<location>E5-M13</location>
+		<type>Space Battle</type>
+	</Instant Intervention/2>
+	<Instant Intervention/3>
+		<location>E5-M13</location>
+		<type>Space Battle</type>
+	</Instant Intervention/3>
+	<Internal Dispute/1>
+		<location>E2-M12</location>
+		<skillcheck>63</skillcheck>
+	</Internal Dispute/1>
+	<Internal Dispute/2>
+		<location>E2-M12</location>
+		<skillcheck>135</skillcheck>
+	</Internal Dispute/2>
+	<Internal Dispute/3>
+		<location>E2-M12</location>
+		<skillcheck>545</skillcheck>
+	</Internal Dispute/3>
+	<Into His Own Hands/1>
+		<location>E5-M12</location>
+		<type>Space Battle</type>
+	</Into His Own Hands/1>
+	<Into His Own Hands/2>
+		<location>E5-M12</location>
+		<type>Space Battle</type>
+	</Into His Own Hands/2>
+	<Into His Own Hands/3>
+		<location>E5-M12</location>
+		<type>Space Battle</type>
+	</Into His Own Hands/3>
+	<Ishka Issues/1>
+		<location>E4-M1</location>
+		<skillcheck>95</skillcheck>
+	</Ishka Issues/1>
+	<Ishka Issues/2>
+		<location>E4-M1</location>
+		<skillcheck>300</skillcheck>
+	</Ishka Issues/2>
+	<Ishka Issues/3>
+		<location>E4-M1</location>
+		<skillcheck>745</skillcheck>
+	</Ishka Issues/3>
+	<Long Distance Call/1>
+		<location>DE-M1</location>
+		<type>Space Battle</type>
+	</Long Distance Call/1>
+	<Long Distance Call/2>
+		<location>DE-M1</location>
+		<type>Space Battle</type>
+	</Long Distance Call/2>
+	<Long Distance Call/3>
+		<location>DE-M1</location>
+		<type>Space Battle</type>
+	</Long Distance Call/3>
+	<Long Live the King/1>
+		<location>E5-M17</location>
+		<type>Space Battle</type>
+	</Long Live the King/1>
+	<Long Live the King/2>
+		<location>E5-M17</location>
+		<type>Space Battle</type>
+	</Long Live the King/2>
+	<Long Live the King/3>
+		<location>E5-M17</location>
+		<type>Space Battle</type>
+	</Long Live the King/3>
+	<Lost Legacy/1>
+		<location>E7-M12</location>
+		<skillcheck>610</skillcheck>
+	</Lost Legacy/1>
+	<Lost Legacy/2>
+		<location>E7-M12</location>
+		<skillcheck>1098</skillcheck>
+	</Lost Legacy/2>
+	<Lost Legacy/3>
+		<location>E7-M12</location>
+		<skillcheck>1647</skillcheck>
+	</Lost Legacy/3>
+	<Man with a Plan/1>
+		<location>E2-M19B</location>
+		<skillcheck>73</skillcheck>
+	</Man with a Plan/1>
+	<Man with a Plan/2>
+		<location>E2-M19B</location>
+		<skillcheck>184</skillcheck>
+	</Man with a Plan/2>
+	<Man with a Plan/3>
+		<location>E2-M19B</location>
+		<skillcheck>649</skillcheck>
+	</Man with a Plan/3>
+	<Manna from Heaven/1>
+		<location>E2-M5</location>
+		<skillcheck>49</skillcheck>
+	</Manna from Heaven/1>
+	<Manna from Heaven/2>
+		<location>E2-M5</location>
+		<skillcheck>105</skillcheck>
+	</Manna from Heaven/2>
+	<Manna from Heaven/3>
+		<location>E2-M5</location>
+		<skillcheck>415</skillcheck>
+	</Manna from Heaven/3>
+	<Maquis Incitement/1>
+		<location>E2-M9</location>
+		<skillcheck>54</skillcheck>
+	</Maquis Incitement/1>
+	<Maquis Incitement/2>
+		<location>E2-M9</location>
+		<skillcheck>119</skillcheck>
+	</Maquis Incitement/2>
+	<Maquis Incitement/3>
+		<location>E2-M9</location>
+		<skillcheck>500</skillcheck>
+	</Maquis Incitement/3>
+	<Material Assistance/1>
+		<location>E7-M3</location>
+		<skillcheck>430</skillcheck>
+	</Material Assistance/1>
+	<Material Assistance/2>
+		<location>E7-M3</location>
+		<skillcheck>903</skillcheck>
+	</Material Assistance/2>
+	<Material Assistance/3>
+		<location>E7-M3</location>
+		<skillcheck>1409</skillcheck>
+	</Material Assistance/3>
+	<Moriarty's Deadline/1>
+		<location>CT-M4</location>
+		<skillcheck>175</skillcheck>
+	</Moriarty's Deadline/1>
+	<Moriarty's Deadline/2>
+		<location>CT-M4</location>
+		<skillcheck>367</skillcheck>
+	</Moriarty's Deadline/2>
+	<Moriarty's Deadline/3>
+		<location>CT-M4</location>
+		<skillcheck>804</skillcheck>
+	</Moriarty's Deadline/3>
+	<Mortals and Mayhem/1>
+		<location>DE-M6</location>
+		<skillcheck>47</skillcheck>
+	</Mortals and Mayhem/1>
+	<Mortals and Mayhem/2>
+		<location>DE-M6</location>
+		<skillcheck>95</skillcheck>
+	</Mortals and Mayhem/2>
+	<Mortals and Mayhem/3>
+		<location>DE-M6</location>
+		<skillcheck>160</skillcheck>
+	</Mortals and Mayhem/3>
+	<Mutual Assured Destruction/1>
+		<location>E4-M7</location>
+		<type>Space Battle</type>
+	</Mutual Assured Destruction/1>
+	<Mutual Assured Destruction/2>
+		<location>E4-M7</location>
+		<type>Space Battle</type>
+	</Mutual Assured Destruction/2>
+	<Mutual Assured Destruction/3>
+		<location>E4-M7</location>
+		<type>Space Battle</type>
+	</Mutual Assured Destruction/3>
+	<No Man Left Behind/1>
+		<location>EA-M5</location>
+		<skillcheck>135</skillcheck>
+	</No Man Left Behind/1>
+	<No Man Left Behind/2>
+		<location>EA-M5</location>
+		<skillcheck>270</skillcheck>
+	</No Man Left Behind/2>
+	<No Man Left Behind/3>
+		<location>EA-M5</location>
+		<skillcheck>380</skillcheck>
+	</No Man Left Behind/3>
+	<No Returns Accepted/1>
+		<location>CT-M7</location>
+		<type>Space Battle</type>
+	</No Returns Accepted/1>
+	<No Returns Accepted/2>
+		<location>CT-M7</location>
+		<type>Space Battle</type>
+	</No Returns Accepted/2>
+	<No Returns Accepted/3>
+		<location>CT-M7</location>
+		<type>Space Battle</type>
+	</No Returns Accepted/3>
+	<Not A Drop to Drink/1>
+		<location>E2-M6</location>
+		<type>Space Battle</type>
+	</Not A Drop to Drink/1>
+	<Not A Drop to Drink/2>
+		<location>E2-M6</location>
+		<type>Space Battle</type>
+	</Not A Drop to Drink/2>
+	<Not A Drop to Drink/3>
+		<location>E2-M6</location>
+		<type>Space Battle</type>
+	</Not A Drop to Drink/3>
+	<Not Without A Fight/1>
+		<location>E4-M2</location>
+		<type>Space Battle</type>
+	</Not Without A Fight/1>
+	<Not Without A Fight/2>
+		<location>E4-M2</location>
+		<type>Space Battle</type>
+	</Not Without A Fight/2>
+	<Not Without A Fight/3>
+		<location>E4-M2</location>
+		<type>Space Battle</type>
+	</Not Without A Fight/3>
+	<Nowhere to Run/1>
+		<location>GB-M1</location>
+		<type>Space Battle</type>
+	</Nowhere to Run/1>
+	<Nowhere to Run/2>
+		<location>GB-M1</location>
+		<type>Space Battle</type>
+	</Nowhere to Run/2>
+	<Nowhere to Run/3>
+		<location>GB-M1</location>
+		<type>Space Battle</type>
+	</Nowhere to Run/3>
+	<Of Two Evils/1>
+		<location>UF-M5</location>
+		<skillcheck>135</skillcheck>
+	</Of Two Evils/1>
+	<Of Two Evils/2>
+		<location>UF-M5</location>
+		<skillcheck>270</skillcheck>
+	</Of Two Evils/2>
+	<Of Two Evils/3>
+		<location>UF-M5</location>
+		<skillcheck>380</skillcheck>
+	</Of Two Evils/3>
+	<Off at the Pass/1>
+		<location>E2-M11</location>
+		<skillcheck>58</skillcheck>
+	</Off at the Pass/1>
+	<Off at the Pass/2>
+		<location>E2-M11</location>
+		<skillcheck>127</skillcheck>
+	</Off at the Pass/2>
+	<Off at the Pass/3>
+		<location>E2-M11</location>
+		<skillcheck>530</skillcheck>
+	</Off at the Pass/3>
+	<On Their Heels/1>
+		<location>E1-M5</location>
+		<type>Space Battle</type>
+	</On Their Heels/1>
+	<On Their Heels/2>
+		<location>E1-M5</location>
+		<type>Space Battle</type>
+	</On Their Heels/2>
+	<On Their Heels/3>
+		<location>E1-M5</location>
+		<type>Space Battle</type>
+	</On Their Heels/3>
+	<One Future Ends/1>
+		<location>E7-M7</location>
+		<skillcheck>505</skillcheck>
+	</One Future Ends/1>
+	<One Future Ends/2>
+		<location>E7-M7</location>
+		<skillcheck>707</skillcheck>
+	</One Future Ends/2>
+	<One Future Ends/3>
+		<location>E7-M7</location>
+		<skillcheck>1010</skillcheck>
+	</One Future Ends/3>
+	<Operation Isolate/1>
+		<location>CT-M8</location>
+		<skillcheck>255</skillcheck>
+	</Operation Isolate/1>
+	<Operation Isolate/2>
+		<location>CT-M8</location>
+		<skillcheck>484</skillcheck>
+	</Operation Isolate/2>
+	<Operation Isolate/3>
+		<location>CT-M8</location>
+		<skillcheck>994</skillcheck>
+	</Operation Isolate/3>
+	<Organian Aid/1>
+		<location>E3-M4</location>
+		<skillcheck>89</skillcheck>
+	</Organian Aid/1>
+	<Organian Aid/2>
+		<location>E3-M4</location>
+		<skillcheck>260</skillcheck>
+	</Organian Aid/2>
+	<Organian Aid/3>
+		<location>E3-M4</location>
+		<skillcheck>705</skillcheck>
+	</Organian Aid/3>
+	<Picking the Bones/1>
+		<location>E2-M16</location>
+		<skillcheck>68</skillcheck>
+		<type>Space Battle</type>
+	</Picking the Bones/1>
+	<Picking the Bones/2>
+		<location>E2-M16</location>
+		<skillcheck>165</skillcheck>
+		<type>Space Battle</type>
+	</Picking the Bones/2>
+	<Picking the Bones/3>
+		<location>E2-M16</location>
+		<skillcheck>136</skillcheck>
+		<type>Space Battle</type>
+	</Picking the Bones/3>
+	<Pillage and Plunder/1>
+		<location>E1-M7</location>
+		<skillcheck>25</skillcheck>
+	</Pillage and Plunder/1>
+	<Pillage and Plunder/2>
+		<location>E1-M7</location>
+		<skillcheck>77</skillcheck>
+	</Pillage and Plunder/2>
+	<Pillage and Plunder/3>
+		<location>E1-M7</location>
+		<skillcheck>200</skillcheck>
+	</Pillage and Plunder/3>
+	<Pirate Problems/1>
+		<location>CT-M3</location>
+		<type>Space Battle</type>
+	</Pirate Problems/1>
+	<Pirate Problems/2>
+		<location>CT-M3</location>
+		<type>Space Battle</type>
+	</Pirate Problems/2>
+	<Pirate Problems/3>
+		<location>CT-M3</location>
+		<type>Space Battle</type>
+	</Pirate Problems/3>
+	<Pretense of Mercy/1>
+		<location>E2-M17</location>
+		<skillcheck>71</skillcheck>
+	</Pretense of Mercy/1>
+	<Pretense of Mercy/2>
+		<location>E2-M17</location>
+		<skillcheck>175</skillcheck>
+	</Pretense of Mercy/2>
+	<Pretense of Mercy/3>
+		<location>E2-M17</location>
+		<skillcheck>614</skillcheck>
+	</Pretense of Mercy/3>
+	<Proof of Concept/1>
+		<location>E5-M10</location>
+		<type>Space Battle</type>
+	</Proof of Concept/1>
+	<Proof of Concept/2>
+		<location>E5-M10</location>
+		<type>Space Battle</type>
+	</Proof of Concept/2>
+	<Proof of Concept/3>
+		<location>E5-M10</location>
+		<type>Space Battle</type>
+	</Proof of Concept/3>
+	<Putting the Free in Freedom/1>
+		<location>E4-M14A</location>
+		<skillcheck>135</skillcheck>
+	</Putting the Free in Freedom/1>
+	<Putting the Free in Freedom/2>
+		<location>E4-M14A</location>
+		<skillcheck>445</skillcheck>
+	</Putting the Free in Freedom/2>
+	<Putting the Free in Freedom/3>
+		<location>E4-M14A</location>
+		<skillcheck>945</skillcheck>
+	</Putting the Free in Freedom/3>
+	<Quell the Riots/1>
+		<location>E5-M1</location>
+		<skillcheck>184</skillcheck>
+	</Quell the Riots/1>
+	<Quell the Riots/2>
+		<location>E5-M1</location>
+		<skillcheck>452</skillcheck>
+	</Quell the Riots/2>
+	<Quell the Riots/3>
+		<location>E5-M1</location>
+		<skillcheck>940</skillcheck>
+	</Quell the Riots/3>
+	<Rabid Fans/1>
+		<location>CT-M2</location>
+		<skillcheck>125</skillcheck>
+	</Rabid Fans/1>
+	<Rabid Fans/2>
+		<location>CT-M2</location>
+		<skillcheck>300</skillcheck>
+	</Rabid Fans/2>
+	<Rabid Fans/3>
+		<location>CT-M2</location>
+		<skillcheck>712</skillcheck>
+	</Rabid Fans/3>
+	<Race to the Finish/1>
+		<location>E5-M4</location>
+		<skillcheck>185</skillcheck>
+	</Race to the Finish/1>
+	<Race to the Finish/2>
+		<location>E5-M4</location>
+		<skillcheck>516</skillcheck>
+	</Race to the Finish/2>
+	<Race to the Finish/3>
+		<location>E5-M4</location>
+		<skillcheck>1030</skillcheck>
+	</Race to the Finish/3>
+	<Rescue the Val Jean/1>
+		<location>E2-M8</location>
+		<skillcheck>51</skillcheck>
+	</Rescue the Val Jean/1>
+	<Rescue the Val Jean/2>
+		<location>E2-M8</location>
+		<skillcheck>115</skillcheck>
+	</Rescue the Val Jean/2>
+	<Rescue the Val Jean/3>
+		<location>E2-M8</location>
+		<skillcheck>480</skillcheck>
+	</Rescue the Val Jean/3>
+	<Researching Future History/1>
+		<location>E7-M9</location>
+		<skillcheck>545</skillcheck>
+	</Researching Future History/1>
+	<Researching Future History/2>
+		<location>E7-M9</location>
+		<skillcheck>1035</skillcheck>
+	</Researching Future History/2>
+	<Researching Future History/3>
+		<location>E7-M9</location>
+		<skillcheck>1526</skillcheck>
+	</Researching Future History/3>
+	<Retroactive Vengeance/1>
+		<location>E7-M8</location>
+		<type>Space Battle</type>
+	</Retroactive Vengeance/1>
+	<Retroactive Vengeance/2>
+		<location>E7-M8</location>
+		<type>Space Battle</type>
+	</Retroactive Vengeance/2>
+	<Retroactive Vengeance/3>
+		<location>E7-M8</location>
+		<type>Space Battle</type>
+	</Retroactive Vengeance/3>
+	<Right Place, Wrong Time/1>
+		<location>E7-M5</location>
+		<type>Space Battle</type>
+	</Right Place, Wrong Time/1>
+	<Right Place, Wrong Time/2>
+		<location>E7-M5</location>
+		<type>Space Battle</type>
+	</Right Place, Wrong Time/2>
+	<Right Place, Wrong Time/3>
+		<location>E7-M5</location>
+		<type>Space Battle</type>
+	</Right Place, Wrong Time/3>
+	<Right of Conquest/1>
+		<location>E1-M13</location>
+		<skillcheck>36</skillcheck>
+	</Right of Conquest/1>
+	<Right of Conquest/2>
+		<location>E1-M13</location>
+		<skillcheck>84</skillcheck>
+	</Right of Conquest/2>
+	<Right of Conquest/3>
+		<location>E1-M13</location>
+		<skillcheck>319</skillcheck>
+	</Right of Conquest/3>
+	<Rockslide/1>
+		<location>E3-M5</location>
+		<type>Space Battle</type>
+	</Rockslide/1>
+	<Rockslide/2>
+		<location>E3-M5</location>
+		<type>Space Battle</type>
+	</Rockslide/2>
+	<Rockslide/3>
+		<location>E3-M5</location>
+		<type>Space Battle</type>
+	</Rockslide/3>
+	<Salvage the Chavez/1>
+		<location>E5-M7</location>
+		<skillcheck>212</skillcheck>
+	</Salvage the Chavez/1>
+	<Salvage the Chavez/2>
+		<location>E5-M7</location>
+		<skillcheck>561</skillcheck>
+	</Salvage the Chavez/2>
+	<Salvage the Chavez/3>
+		<location>E5-M7</location>
+		<skillcheck>1081</skillcheck>
+	</Salvage the Chavez/3>
+	<Saving Smiley O'Brien/1>
+		<location>E5-M11</location>
+	</Saving Smiley O'Brien/1>
+	<Saving Smiley O'Brien/2>
+		<location>E5-M11</location>
+	</Saving Smiley O'Brien/2>
+	<Saving Smiley O'Brien/3>
+		<location>E5-M11</location>
+	</Saving Smiley O'Brien/3>
+	<Secure the Chavez/1>
+		<location>E5-M6</location>
+		<type>Space Battle</type>
+	</Secure the Chavez/1>
+	<Secure the Chavez/2>
+		<location>E5-M6</location>
+		<type>Space Battle</type>
+	</Secure the Chavez/2>
+	<Secure the Chavez/3>
+		<location>E5-M6</location>
+		<type>Space Battle</type>
+	</Secure the Chavez/3>
+	<Self Control/1>
+		<location>E4-M6</location>
+		<skillcheck>110</skillcheck>
+	</Self Control/1>
+	<Self Control/2>
+		<location>E4-M6</location>
+		<skillcheck>365</skillcheck>
+	</Self Control/2>
+	<Self Control/3>
+		<location>E4-M6</location>
+		<skillcheck>836</skillcheck>
+	</Self Control/3>
+	<Serious Business/1>
+		<location>CT-M6</location>
+		<skillcheck>210</skillcheck>
+	</Serious Business/1>
+	<Serious Business/2>
+		<location>CT-M6</location>
+		<skillcheck>441</skillcheck>
+	</Serious Business/2>
+	<Serious Business/3>
+		<location>CT-M6</location>
+		<skillcheck>903</skillcheck>
+	</Serious Business/3>
+	<Smiles and Knives/1>
+		<location>E4-M14B</location>
+		<skillcheck>135</skillcheck>
+	</Smiles and Knives/1>
+	<Smiles and Knives/2>
+		<location>E4-M14B</location>
+		<skillcheck>445</skillcheck>
+	</Smiles and Knives/2>
+	<Smiles and Knives/3>
+		<location>E4-M14B</location>
+		<skillcheck>945</skillcheck>
+	</Smiles and Knives/3>
+	<Stolen Honor/1>
+		<location>E1-M10</location>
+		<skillcheck>32</skillcheck>
+	</Stolen Honor/1>
+	<Stolen Honor/2>
+		<location>E1-M10</location>
+		<skillcheck>81</skillcheck>
+	</Stolen Honor/2>
+	<Stolen Honor/3>
+		<location>E1-M10</location>
+		<skillcheck>260</skillcheck>
+	</Stolen Honor/3>
+	<Striking at Shadows/1>
+		<location>E7-M6</location>
+		<skillcheck>480</skillcheck>
+	</Striking at Shadows/1>
+	<Striking at Shadows/2>
+		<location>E7-M6</location>
+		<skillcheck>969</skillcheck>
+	</Striking at Shadows/2>
+	<Striking at Shadows/3>
+		<location>E7-M6</location>
+		<skillcheck>1473</skillcheck>
+	</Striking at Shadows/3>
+	<Talarian Coup/1>
+		<location>CF-M3</location>
+		<skillcheck>85</skillcheck>
+	</Talarian Coup/1>
+	<Talarian Coup/2>
+		<location>CF-M3</location>
+		<skillcheck>215</skillcheck>
+	</Talarian Coup/2>
+	<Talarian Coup/3>
+		<location>CF-M3</location>
+		<skillcheck>325</skillcheck>
+	</Talarian Coup/3>
+	<Talk Less, Smile More/1>
+		<location>EA-M3</location>
+		<skillcheck>85</skillcheck>
+	</Talk Less, Smile More/1>
+	<Talk Less, Smile More/2>
+		<location>EA-M3</location>
+		<skillcheck>215</skillcheck>
+	</Talk Less, Smile More/2>
+	<Talk Less, Smile More/3>
+		<location>EA-M3</location>
+		<skillcheck>325</skillcheck>
+	</Talk Less, Smile More/3>
+	<Temporary Hold/1>
+		<location>E2-M15</location>
+		<skillcheck>68</skillcheck>
+	</Temporary Hold/1>
+	<Temporary Hold/2>
+		<location>E2-M15</location>
+		<skillcheck>149</skillcheck>
+	</Temporary Hold/2>
+	<Temporary Hold/3>
+		<location>E2-M15</location>
+		<skillcheck>589</skillcheck>
+	</Temporary Hold/3>
+	<The Annihilation Syndrome/1>
+		<location>E5-M18B</location>
+	</The Annihilation Syndrome/1>
+	<The Annihilation Syndrome/2>
+		<location>E5-M18B</location>
+	</The Annihilation Syndrome/2>
+	<The Annihilation Syndrome/3>
+		<location>E5-M18B</location>
+	</The Annihilation Syndrome/3>
+	<The Army of Anaydis/1>
+		<location>E2-M3</location>
+		<type>Space Battle</type>
+	</The Army of Anaydis/1>
+	<The Army of Anaydis/2>
+		<location>E2-M3</location>
+		<type>Space Battle</type>
+	</The Army of Anaydis/2>
+	<The Army of Anaydis/3>
+		<location>E2-M3</location>
+		<type>Space Battle</type>
+	</The Army of Anaydis/3>
+	<The Coming Storm/1>
+		<location>CF-M4</location>
+		<skillcheck>100</skillcheck>
+	</The Coming Storm/1>
+	<The Coming Storm/2>
+		<location>CF-M4</location>
+		<skillcheck>245</skillcheck>
+	</The Coming Storm/2>
+	<The Coming Storm/3>
+		<location>CF-M4</location>
+		<skillcheck>345</skillcheck>
+	</The Coming Storm/3>
+	<The First Battle/1>
+		<location>P1-M1</location>
+		<type>Space Battle</type>
+	</The First Battle/1>
+	<The First Battle/2>
+		<location>P1-M1</location>
+		<type>Space Battle</type>
+	</The First Battle/2>
+	<The First Battle/3>
+		<location>P1-M1</location>
+		<type>Space Battle</type>
+	</The First Battle/3>
+	<The Mad Vedek/1>
+		<location>E2-M4</location>
+		<skillcheck>47</skillcheck>
+	</The Mad Vedek/1>
+	<The Mad Vedek/2>
+		<location>E2-M4</location>
+		<skillcheck>100</skillcheck>
+	</The Mad Vedek/2>
+	<The Mad Vedek/3>
+		<location>E2-M4</location>
+		<skillcheck>399</skillcheck>
+	</The Mad Vedek/3>
+	<The Prodigal Son/1>
+		<location>E1-M3</location>
+		<skillcheck>22</skillcheck>
+	</The Prodigal Son/1>
+	<The Prodigal Son/2>
+		<location>E1-M3</location>
+		<skillcheck>68</skillcheck>
+	</The Prodigal Son/2>
+	<The Prodigal Son/3>
+		<location>E1-M3</location>
+		<skillcheck>138</skillcheck>
+	</The Prodigal Son/3>
+	<The Raptor's Fury/1>
+		<location>E7-M4</location>
+		<skillcheck>450</skillcheck>
+	</The Raptor's Fury/1>
+	<The Raptor's Fury/2>
+		<location>E7-M4</location>
+		<skillcheck>630</skillcheck>
+	</The Raptor's Fury/2>
+	<The Raptor's Fury/3>
+		<location>E7-M4</location>
+		<skillcheck>900</skillcheck>
+	</The Raptor's Fury/3>
+	<The Rings of Time/1>
+		<location>E6-M1</location>
+		<skillcheck>380</skillcheck>
+	</The Rings of Time/1>
+	<The Rings of Time/2>
+		<location>E6-M1</location>
+		<skillcheck>771</skillcheck>
+	</The Rings of Time/2>
+	<The Rings of Time/3>
+		<location>E6-M1</location>
+		<skillcheck>1265</skillcheck>
+	</The Rings of Time/3>
+	<The Time Transporter/1>
+		<location>E6-M4</location>
+		<skillcheck>380</skillcheck>
+	</The Time Transporter/1>
+	<The Time Transporter/2>
+		<location>E6-M4</location>
+		<skillcheck>817</skillcheck>
+	</The Time Transporter/2>
+	<The Time Transporter/3>
+		<location>E6-M4</location>
+		<skillcheck>1318</skillcheck>
+	</The Time Transporter/3>
+	<The Toss/1>
+		<location>E2-M19A</location>
+		<skillcheck>73</skillcheck>
+	</The Toss/1>
+	<The Toss/2>
+		<location>E2-M19A</location>
+		<skillcheck>184</skillcheck>
+	</The Toss/2>
+	<The Toss/3>
+		<location>E2-M19A</location>
+		<skillcheck>649</skillcheck>
+	</The Toss/3>
+	<The Vedek's Trail/1>
+		<location>E2-M2</location>
+		<skillcheck>44</skillcheck>
+	</The Vedek's Trail/1>
+	<The Vedek's Trail/2>
+		<location>E2-M2</location>
+		<skillcheck>95</skillcheck>
+	</The Vedek's Trail/2>
+	<The Vedek's Trail/3>
+		<location>E2-M2</location>
+		<skillcheck>370</skillcheck>
+	</The Vedek's Trail/3>
+	<The Walls Have Ears/1>
+		<location>E2-M10</location>
+		<type>Space Battle</type>
+	</The Walls Have Ears/1>
+	<The Walls Have Ears/2>
+		<location>E2-M10</location>
+		<type>Space Battle</type>
+	</The Walls Have Ears/2>
+	<The Walls Have Ears/3>
+		<location>E2-M10</location>
+		<type>Space Battle</type>
+	</The Walls Have Ears/3>
+	<The Wrong Crowd/1>
+		<location>E1-M1</location>
+		<skillcheck>21</skillcheck>
+	</The Wrong Crowd/1>
+	<The Wrong Crowd/2>
+		<location>E1-M1</location>
+		<skillcheck>67</skillcheck>
+	</The Wrong Crowd/2>
+	<The Wrong Crowd/3>
+		<location>E1-M1</location>
+		<skillcheck>119</skillcheck>
+	</The Wrong Crowd/3>
+	<Thy Enemy's Secrets/1>
+		<location>E5-M18A</location>
+		<skillcheck>200</skillcheck>
+	</Thy Enemy's Secrets/1>
+	<Thy Enemy's Secrets/2>
+		<location>E5-M18A</location>
+		<skillcheck>740</skillcheck>
+	</Thy Enemy's Secrets/2>
+	<Thy Enemy's Secrets/3>
+		<location>E5-M18A</location>
+		<skillcheck>1256</skillcheck>
+	</Thy Enemy's Secrets/3>
+	<Too Greedily and Too Deep/1>
+		<location>E6-M3</location>
+		<skillcheck>380</skillcheck>
+	</Too Greedily and Too Deep/1>
+	<Too Greedily and Too Deep/2>
+		<location>E6-M3</location>
+		<skillcheck>801</skillcheck>
+	</Too Greedily and Too Deep/2>
+	<Too Greedily and Too Deep/3>
+		<location>E6-M3</location>
+		<skillcheck>1303</skillcheck>
+	</Too Greedily and Too Deep/3>
+	<Top Marks/1>
+		<location>EA-M2</location>
+		<skillcheck>70</skillcheck>
+	</Top Marks/1>
+	<Top Marks/2>
+		<location>EA-M2</location>
+		<skillcheck>205</skillcheck>
+	</Top Marks/2>
+	<Top Marks/3>
+		<location>EA-M2</location>
+		<skillcheck>310</skillcheck>
+	</Top Marks/3>
+	<Trial by Fire/1>
+		<location>E4-M10</location>
+		<skillcheck>117</skillcheck>
+	</Trial by Fire/1>
+	<Trial by Fire/2>
+		<location>E4-M10</location>
+		<skillcheck>400</skillcheck>
+	</Trial by Fire/2>
+	<Trial by Fire/3>
+		<location>E4-M10</location>
+		<skillcheck>885</skillcheck>
+	</Trial by Fire/3>
+	<Trust Issues/1>
+		<location>E7-M10</location>
+		<skillcheck>575</skillcheck>
+	</Trust Issues/1>
+	<Trust Issues/2>
+		<location>E7-M10</location>
+		<skillcheck>1063</skillcheck>
+	</Trust Issues/2>
+	<Trust Issues/3>
+		<location>E7-M10</location>
+		<skillcheck>1575</skillcheck>
+	</Trust Issues/3>
+	<Turncoat Outpost/1>
+		<location>E5-M15</location>
+		<skillcheck>284</skillcheck>
+	</Turncoat Outpost/1>
+	<Turncoat Outpost/2>
+		<location>E5-M15</location>
+		<skillcheck>681</skillcheck>
+	</Turncoat Outpost/2>
+	<Turncoat Outpost/3>
+		<location>E5-M15</location>
+		<skillcheck>1192</skillcheck>
+	</Turncoat Outpost/3>
+	<Under New Management/1>
+		<location>E2-M1</location>
+		<skillcheck>42</skillcheck>
+	</Under New Management/1>
+	<Under New Management/2>
+		<location>E2-M1</location>
+		<skillcheck>91</skillcheck>
+	</Under New Management/2>
+	<Under New Management/3>
+		<location>E2-M1</location>
+		<skillcheck>354</skillcheck>
+	</Under New Management/3>
+	<Warranted Pursuit/1>
+		<location>CT-M1</location>
+		<type>Space Battle</type>
+	</Warranted Pursuit/1>
+	<Warranted Pursuit/2>
+		<location>CT-M1</location>
+		<type>Space Battle</type>
+	</Warranted Pursuit/2>
+	<Warranted Pursuit/3>
+		<location>CT-M1</location>
+		<type>Space Battle</type>
+	</Warranted Pursuit/3>
+	<With Friends Like These/1>
+		<location>E4-M13</location>
+		<skillcheck>129</skillcheck>
+	</With Friends Like These/1>
+	<With Friends Like These/2>
+		<location>E4-M13</location>
+		<skillcheck>424</skillcheck>
+	</With Friends Like These/2>
+	<With Friends Like These/3>
+		<location>E4-M13</location>
+		<skillcheck>935</skillcheck>
+	</With Friends Like These/3>
+	
